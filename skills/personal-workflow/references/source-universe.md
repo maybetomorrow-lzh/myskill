@@ -32,9 +32,22 @@ Check these first for China-specific policy and platform developments:
 - Moonshot AI official announcements
 - Zhipu AI official announcements
 
-## Tier 2: High-Signal Media and Research Coverage
+## Tier 2 China: Preferred Discovery Media
 
-Use these to extend coverage and interpretation:
+Use these actively for China AI discovery, then verify important items against
+primary sources where possible:
+
+- Jiqizhixin
+- QbitAI
+- Xinzhiyuan
+- Pedaily
+- Huxiu AI coverage
+- 36Kr AI coverage
+- LatePost when relevant for deeper company reporting
+
+## Tier 2 Global: High-Signal Media and Research Coverage
+
+Use these to extend overseas coverage and interpretation:
 
 - Reuters
 - Bloomberg
@@ -42,11 +55,6 @@ Use these to extend coverage and interpretation:
 - The Information
 - Semafor
 - TechCrunch for startup and funding context
-- 36Kr for China startup and financing coverage
-- Huxiu for China tech and industry interpretation
-- Jiqizhixin for AI-native reporting in Chinese
-- QbitAI for fast China AI news discovery
-- LatePost when relevant for deeper China company reporting
 
 ## Tier 3: Secondary Discovery Channels
 
@@ -65,3 +73,4 @@ Use selectively and verify before ranking highly:
 - Use Tier 3 only after verification or when monitoring early signals.
 - If multiple sources conflict, prefer primary disclosure over media interpretation.
 - If a source is paywalled, capture only the key confirmed facts and state limits.
+- For China AI news, prioritize the named Chinese media above before broader generic tech coverage.

@@ -15,7 +15,9 @@ highlights what matters most and why.
 3. Group items by theme such as models, applications, infrastructure, capital, and policy.
 4. Rank each item by investment importance instead of recency alone.
 5. Explain the likely implications for startups, incumbents, capital flows, and timing.
-6. Present a short digest that surfaces the highest-signal developments first.
+6. Go deeper on important technical iterations and explain the likely industry impact.
+7. Highlight AI companies with unusually strong execution or category leadership.
+8. Present a short digest that surfaces the highest-signal developments first.
 
 ## Sourcing Rules
 
@@ -33,6 +35,8 @@ Read `references/source-universe.md` for the source whitelist and sourcing order
 - Distinguish clearly between facts, interpretation, and investment inference.
 - Prefer concise summaries over long article recaps.
 - Explain why an item matters for the primary market.
+- For important technical developments, include a technical change summary and industry impact.
+- When a company stands out in a category, add a focused company summary instead of burying it in a generic digest.
 - Call out whether a signal looks structural, tactical, or mostly noise.
 
 ## Common Modes
