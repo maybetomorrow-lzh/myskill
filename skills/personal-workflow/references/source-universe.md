@@ -1,4 +1,4 @@
-# Source Universe
+﻿# Source Universe
 
 Use these sources in priority order when building an AI investment digest.
 
@@ -32,15 +32,26 @@ Check these first for China-specific policy and platform developments:
 - Moonshot AI official announcements
 - Zhipu AI official announcements
 
-## Tier 2 China: Preferred Discovery Media
+## Tier 2 China: Technical Media
 
-Use these actively for China AI discovery, then verify important items against
-primary sources where possible:
+Use these for technical discovery, model progress, agent updates, and AI-native product coverage:
 
 - Jiqizhixin
-- QbitAI
 - Xinzhiyuan
+- QbitAI
+
+## Tier 2 China: Financing And Company Media
+
+Use these for funding, company moves, and startup discovery:
+
 - Pedaily
+- ITjuzi
+- 36Kr AI coverage
+
+## Tier 2 China: Business And Industry Analysis
+
+Use these for commercial interpretation, product strategy, and industry context:
+
 - Huxiu AI coverage
 - 36Kr AI coverage
 - LatePost when relevant for deeper company reporting
@@ -73,4 +84,7 @@ Use selectively and verify before ranking highly:
 - Use Tier 3 only after verification or when monitoring early signals.
 - If multiple sources conflict, prefer primary disclosure over media interpretation.
 - If a source is paywalled, capture only the key confirmed facts and state limits.
-- For China AI news, prioritize the named Chinese media above before broader generic tech coverage.
+- For China AI news, cover technical media, financing/company media, and business-analysis media instead of relying on a single publication type.
+- For weekly reports, ITjuzi must be treated as a dedicated financing-database sweep, not just another media source.
+- Use ITjuzi to补扫 AI financing events, round, amount, investors, and company names that may not appear in article-style media coverage.
+- If ITjuzi surfaces a financing event that is not yet confirmed by a second source, keep it as `待核验` instead of dropping it silently.

@@ -1,0 +1,26 @@
+﻿{
+  "edgePath": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+  "loginUrl": "https://www.itjuzi.com/",
+  "seedUrls": [
+    "https://www.itjuzi.com/industry_ai_agent",
+    "https://www.itjuzi.com/"
+  ],
+  "eventUrlPatterns": [
+    "\\/investevent\\/"
+  ],
+  "aiKeywords": [
+    "ai",
+    "人工智能",
+    "大模型",
+    "智能体",
+    "agent",
+    "机器人",
+    "aigc",
+    "视频生成",
+    "具身智能",
+    "自动驾驶",
+    "芯片"
+  ],
+  "detailLimit": 20,
+  "headless": true
+}

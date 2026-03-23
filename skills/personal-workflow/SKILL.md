@@ -1,4 +1,4 @@
----
+﻿---
 name: personal-workflow
 description: Help a China-based primary-market investor track, rank, and summarize important AI news from China and overseas. Use when Codex needs to scan recent AI developments, sort them by investment importance, explain market implications, and turn broad news flow into a concise investor digest.
 ---
@@ -54,6 +54,28 @@ Create a ranked digest with:
 
 Use the digest template in `assets/templates/daily-review.md` when a consistent
 structure would help.
+
+### Weekly Investment Report
+
+Create an investor-facing weekly memo instead of a workflow note.
+
+- Keep the report body focused on news, targets, judgments, and next steps.
+- Do not include methodology sections such as source taxonomy or scoring rules in the report body.
+- Map important news items to investable companies or target categories.
+- If no single company is investable yet, surface a target category and explain what to verify next.
+- Before drafting the report body, scan the full date window for major China AI financing events, major product releases, and major policy or platform moves.
+- Before drafting the report body, run a dedicated `ITjuzi 融资补扫` to catch AI financing events that may not appear in article-style coverage.
+- Use the ITjuzi sweep to补充 company name, round, amount, investors, and whether a new private target clue should enter the report.
+- Do not omit representative high-signal financing events from the selected window.
+- Treat the Feishu document as the primary delivery artifact for weekly reports.
+- If a weekly report has already been published to Feishu, update that existing Feishu document in place instead of creating a new one.
+- Include a dedicated `技术分析与趋势` section that explains the week's key technical changes and what they imply for industry direction and startup opportunity.
+- Before outputting the report, verify that every named investable company is still a private company.
+- For China AI companies with heavy financing or IPO coverage, always verify listing status with current sources instead of relying on memory.
+- If a company is already listed, keep it out of `可投标的` and `重点标的跟踪`; it may remain only in news analysis as a market or valuation signal.
+
+Use `assets/templates/weekly-investment-report.md` for the report structure.
+Read `references/weekly-report-format.md` for formatting rules.
 
 ### Theme-Based Sorting
 

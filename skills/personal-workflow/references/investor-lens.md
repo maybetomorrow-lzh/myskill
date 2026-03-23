@@ -1,4 +1,4 @@
-# Investor Lens
+﻿# Investor Lens
 
 Use this file to tune the digest toward the user's actual investment style.
 
@@ -12,17 +12,33 @@ Use this file to tune the digest toward the user's actual investment style.
 
 ## Preferred Media
 
-Use these Chinese media outlets actively for discovery and context:
+Use these Chinese sources actively and in combination:
+
+### Technical Media
 
 - Jiqizhixin
-- QbitAI
 - Xinzhiyuan
+- QbitAI
+
+### Financing And Company Media
+
 - Pedaily
-- Huxiu AI coverage
+- ITjuzi
 - 36Kr AI coverage
 
-Treat them as important discovery channels, then verify key facts with primary
-sources when possible.
+### Business And Industry Analysis
+
+- Huxiu AI coverage
+- 36Kr AI coverage
+- LatePost when relevant
+
+Treat them as complementary rather than interchangeable:
+
+- technical media for model, agent, and product signals
+- financing media for rounds, company updates, and investor moves
+- business media for market interpretation and commercial context
+
+Verify key facts with primary sources when possible.
 
 ## Rank Higher By Default
 

@@ -1,0 +1,29 @@
+﻿{
+  "name": "myskill",
+  "version": "1.0.0",
+  "description": "This repository stores a personal investment workflow skill focused on AI news triage for a China-based primary-market investor.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "itjuzi:login": "node scripts/itjuzi-login.js",
+    "itjuzi:fetch": "node scripts/itjuzi-fetch.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maybetomorrow-lzh/myskill.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maybetomorrow-lzh/myskill/issues"
+  },
+  "homepage": "https://github.com/maybetomorrow-lzh/myskill#readme",
+  "dependencies": {
+    "playwright": "^1.58.2"
+  }
+}
